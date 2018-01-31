@@ -105,4 +105,16 @@
 		</plugins>
 		<finalName>SpringNoXmlRest</finalName>
 	</build>
+	<distributionManagement>
+    <repository>
+     <id>com.enployee.manage</id>
+     <name>SpringNoXmlRest </name>
+     <url>http://x</url>
+    </repository>
+    <snapshotRepository>
+     <id>com.enployee.manage</id>
+     <name>SpringNoXmlRest</name>
+     <url>http://x</url>
+    </snapshotRepository>
+  </distributionManagement>
 </project>
