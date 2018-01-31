@@ -105,16 +105,6 @@
 		</plugins>
 		<finalName>SpringNoXmlRest</finalName>
 	</build>
-	<distributionManagement>
-    <repository>
-     <id>com.enployee.manage</id>
-     <name>SpringNoXmlRest </name>
-     <url>http://snapshots.repository.codehaus.org</url>
-    </repository>
-    <snapshotRepository>
-     <id>com.enployee.manage</id>
-     <name>SpringNoXmlRest</name>
-     <url>http://snapshots.repository.codehaus.org</url>
-    </snapshotRepository>
-  </distributionManagement>
+	
+  
 </project>
