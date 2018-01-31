@@ -109,12 +109,12 @@
     <repository>
      <id>com.enployee.manage</id>
      <name>SpringNoXmlRest </name>
-     <url>http://x</url>
+     <url>http://snapshots.repository.codehaus.org</url>
     </repository>
     <snapshotRepository>
      <id>com.enployee.manage</id>
      <name>SpringNoXmlRest</name>
-     <url>http://x</url>
+     <url>http://snapshots.repository.codehaus.org</url>
     </snapshotRepository>
   </distributionManagement>
 </project>
